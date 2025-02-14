@@ -1,0 +1,257 @@
+img {
+    width: 400px;
+}
+
+p {
+    text-align: center;
+}
+
+.logo {
+    size: 600px;
+    text-align: center;
+}
+
+.logo_tamano {
+    width: 200px;
+}
+
+.fondo_shadow {
+    background-image: url("https://i.imgur.com/Miei4l5.jpeg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color: #FFFFFF;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.fondo_nick {
+    background-image: url("https://i.imgur.com/Miei4l5.jpeg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color: rgb(255, 255, 255);
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.fondo_fantasy {
+    background-image: url("https://i.imgur.com/Miei4l5.jpeg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    color: rgb(255, 255, 255);
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.fondo_gowr {
+    background-image: url("https://i.imgur.com/Miei4l5.jpeg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color: rgb(255, 255, 255);
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.fondo_spidy {
+    background-image: url("https://i.imgur.com/Miei4l5.jpeg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color: rgb(255, 255, 255);
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.fondo_astrobot {
+    background-image: url("https://i.imgur.com/Miei4l5.jpeg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color: rgb(255, 255, 255);
+    background-position: center;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.fondo_holland {
+    background-image: url("https://i.imgur.com/Miei4l5.jpeg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color: rgb(255, 255, 255);
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.fondo_zombis {
+    background-image: url("https://i.imgur.com/Miei4l5.jpeg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color: rgb(255, 255, 255);
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.fondo_GTA {
+    background-image: url("https://i.imgur.com/Miei4l5.jpeg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color: rgb(255, 255, 255);
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.fondo_RDD1 {
+    background-image: url("https://i.imgur.com/Miei4l5.jpeg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color: rgb(255, 255, 255);
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.fondo_gtaSA {
+    background-image: url("https://i.imgur.com/Miei4l5.jpeg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color: rgb(255, 255, 255);
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.fondo_fantasyX {
+    background-image: url("https://i.imgur.com/Miei4l5.jpeg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    color: rgb(255, 255, 255);
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.fondo_serpiente {
+    background-image: url("https://i.imgur.com/Miei4l5.jpeg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    color: rgb(255, 255, 255);
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.fondo_collosus {
+    background-image: url("https://i.imgur.com/Miei4l5.jpeg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    color: rgb(255, 255, 255);
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.fondo_gow {
+    background-image: url("https://i.imgur.com/Miei4l5.jpeg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    color: rgb(255, 255, 255);
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.fondo_noPC {
+    background-image: url("https://i.imgur.com/Miei4l5.jpeg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    color: rgb(255, 255, 255);
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.fondo_tlou2 {
+    background-image: url("https://i.imgur.com/Miei4l5.jpeg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    color: rgb(255, 255, 255);
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.fondo_RL {
+    background-image: url("https://i.imgur.com/Miei4l5.jpeg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    color: rgb(255, 255, 255);
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.fondo_RRD2 {
+    background-image: url("https://i.imgur.com/Miei4l5.jpeg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    color: rgb(255, 255, 255);
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.font_shamu {
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+
+}
+
+.font_gowr {
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+}
+
+.font_fantasy {
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+}
+
+.font_idk {
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+}
+
+.font_locu {
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+}
+
+.font_unleashed {
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+}
+
+.font_drake {
+    color: rgb(255, 255, 255);
+    font-size: 25px
+}
+
+.font_arbol {
+    color: rgb(255, 255, 255);
+    font-size: 25px
+}
